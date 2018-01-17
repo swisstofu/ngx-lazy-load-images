@@ -2,8 +2,8 @@
   "name": "ngx-lazy-load-images",
   "version": "1.3.0",
   "description": "Image lazy load library for Angular 2+.",
-  "main": "./bundles/ngx-lazy-load-images.umd.min.js",
-  "typings": "./ngx-lazy-load-images.d.ts",
+  "main": "./dist/bundles/ngx-lazy-load-images.umd.js",
+  "typings": "./dist/ngx-lazy-load-images.d.ts",
   "author": "Jesús Botella",
   "keywords": [
     "lazy-loading",
