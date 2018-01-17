@@ -80,6 +80,8 @@ export class LazyLoadImagesDirective {
     // Observe Directive DOM Node
     observer.observe(rootElement, observerConfig);
 
+    onChange();
+
     return observer;
   }
 
